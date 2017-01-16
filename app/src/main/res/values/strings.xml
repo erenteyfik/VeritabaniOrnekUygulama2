@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Öğrenci Ders Takip Çizelgesi</string>
+    <string name="action_settings">Ayarlar</string>
+
+    <string name="hakkinda">Uygulamamız ile günlük çözdüğünüz soru sayısını kaydedebilirsiniz
+        ve ayarlar kısmından belirlediğiniz günlük soru çözüm hedefine ulaşıp ulaşmadığınızı rapor olarak
+        ekranda görebilirsiniz. (Varsayılan günlük soru çözüm hedefi 100 dür.) Ayrıca bu raporu paylaşabilirsiniz.
+        \n\nProgramımızı veliler de çocuklarının çalışmasını takip etmek için kullanabilirler.\n\nHer türlü görüş ve
+        önerilerinizi yorumlar kısmından veya aşağıdaki mail adresinden iletebilirsiniz.</string>
+    <string-array name="dersler">
+
+        <item>Türkçe</item>
+        <item>Matematik</item>
+        <item>Fen ve Teknoloji</item>
+        <item>İngilizce</item>
+        <item>Sosyal Bilgiler</item>
+        <item>Beden Eğitimi</item>
+
+
+    </string-array>
+</resources>
